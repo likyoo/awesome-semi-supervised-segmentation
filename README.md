@@ -6,6 +6,20 @@
 
 A curated list of awesome Semi-Supervised **Segmentation**. A topical extension of [awesome-semi-supervised-learning](https://github.com/yassouali/awesome-semi-supervised-learning) for segmentation.
 
+
+
+#### Surveys & Overview
+
+A Survey on Semi-Supervised Semantic Segmentation
+
+| Date   | The First and Last Authors            | Title                                             | Code | Reference                                      |
+| ------ | ------------------------------------- | ------------------------------------------------- | ---- | ---------------------------------------------- |
+| 2023-2 | Adrian Peláez-Vegas and Julián Luengo | A Survey on Semi-Supervised Semantic Segmentation | N/A  | [arXiv'2023](https://arxiv.org/abs/2302.09899) |
+
+
+
+#### Papers
+
 | Date    | The First and Last Authors   | Title                                                        | Code                                                | Reference                                                    |
 | ------- | ---------------------------- | ------------------------------------------------------------ | --------------------------------------------------- | ------------------------------------------------------------ |
 | 2023-10 | Jaemin Na and Wonjun Hwang   | Switching Temporary Teachers for Semi-Supervised Semantic Segmentation | [Code](https://github.com/naver-ai/dual-teacher)    | [arXiv'2023](https://arxiv.org/abs/2310.18640)               |
@@ -13,3 +27,16 @@ A curated list of awesome Semi-Supervised **Segmentation**. A topical extension 
 | 2020-01 | Kihyuk Sohn and Colin Raffel | FixMatch: Simplifying Semi-Supervised Learning with Consistency and Conﬁdence | [Code](https://github.com/google-research/fixmatch) | [NIPS'2020](https://arxiv.org/abs/2001.07685)                |
 |         |                              |                                                              |                                                     |                                                              |
 |         |                              |                                                              |                                                     |                                                              |
+
+
+
+#### Contributing
+
+If you find any errors, or you wish to add some papers, please feel free to contribute to this list by contacting [me](https://likyoo.github.io/) or by creating a [pull request](https://github.com/likyoo/awesome-semi-supervised-segmentation/pulls) using the above format.
+
+
+
+#### Related Links
+
+- [awesome-semi-supervised-learning](https://github.com/yassouali/awesome-semi-supervised-learning)
+- [Semi-supervised-learning-for-medical-image-segmentation](https://github.com/HiLab-git/SSL4MIS)
