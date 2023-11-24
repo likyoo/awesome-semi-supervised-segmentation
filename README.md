@@ -12,9 +12,9 @@ A curated list of awesome Semi-Supervised **Segmentation**. A topical extension 
 
 A Survey on Semi-Supervised Semantic Segmentation
 
-| Date   | The First and Last Authors            | Title                                             | Code | Reference                                      |
-| ------ | ------------------------------------- | ------------------------------------------------- | ---- | ---------------------------------------------- |
-| 2023-2 | Adrian Peláez-Vegas and Julián Luengo | A Survey on Semi-Supervised Semantic Segmentation | N/A  | [arXiv'2023](https://arxiv.org/abs/2302.09899) |
+| Date    | The First and Last Authors            | Title                                             | Code | Reference                                      |
+| ------- | ------------------------------------- | ------------------------------------------------- | ---- | ---------------------------------------------- |
+| 2023-02 | Adrian Peláez-Vegas and Julián Luengo | A Survey on Semi-Supervised Semantic Segmentation | N/A  | [arXiv'2023](https://arxiv.org/abs/2302.09899) |
 
 
 
