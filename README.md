@@ -20,16 +20,16 @@ A Survey on Semi-Supervised Semantic Segmentation
 
 #### Papers (with code)
 
-| Date    | The First and Last Authors      | Title                                                        | Code                                                | Reference                                                    |
-| ------- | ------------------------------- | ------------------------------------------------------------ | --------------------------------------------------- | ------------------------------------------------------------ |
-| 2023-10 | Jaemin Na and Wonjun Hwang      | Switching Temporary Teachers for Semi-Supervised Semantic Segmentation | [Code](https://github.com/naver-ai/dual-teacher)    | [arXiv'2023](https://arxiv.org/abs/2310.18640)               |
-| 2022-08 | Lihe Yang and Yinghuan Shi      | Revisiting Weak-to-Strong Consistency in Semi-Supervised Semantic Segmentation | [Code](https://github.com/LiheYoung/UniMatch)       | [CVPR'2023](https://openaccess.thecvf.com/content/CVPR2023/html/Yang_Revisiting_Weak-to-Strong_Consistency_in_Semi-Supervised_Semantic_Segmentation_CVPR_2023_paper.html) |
-| 2021-06 |                                 | Semi-Supervised Semantic Segmentation with Cross Pseudo Supervision |                                                     |                                                              |
-| 2020-08 | Zhanghan Ke and Rynson W.H. Lau | Guided Collaborative Training for Pixel-wise Semi-Supervised Learning | [Code](https://github.com/ZHKKKe/PixelSSL)          | [ECCV'2020](https://arxiv.org/abs/2008.05258)                |
-| 2020-01 | Kihyuk Sohn and Colin Raffel    | FixMatch: Simplifying Semi-Supervised Learning with Consistency and Conﬁdence | [Code](https://github.com/google-research/fixmatch) | [NIPS'2020](https://arxiv.org/abs/2001.07685)                |
-|         |                                 | Adversarial learning for semi-supervised semantic segmentation |                                                     |                                                              |
-| 2017-10 | Nasim Souly and Mubarak Shah    | Semi Supervised Semantic Segmentation Using Generative Adversarial Network | N/A                                                 | [ICCV'2017](https://openaccess.thecvf.com/content_iccv_2017/html/Souly__Semi_Supervised_ICCV_2017_paper.html) |
-|         |                                 |                                                              |                                                     |                                                              |
+| Date    | The First and Last Authors        | Title                                                        | Code                                                | Reference                                                    |
+| ------- | --------------------------------- | ------------------------------------------------------------ | --------------------------------------------------- | ------------------------------------------------------------ |
+| 2023-10 | Jaemin Na and Wonjun Hwang        | Switching Temporary Teachers for Semi-Supervised Semantic Segmentation | [Code](https://github.com/naver-ai/dual-teacher)    | [arXiv'2023](https://arxiv.org/abs/2310.18640)               |
+| 2022-08 | Lihe Yang and Yinghuan Shi        | Revisiting Weak-to-Strong Consistency in Semi-Supervised Semantic Segmentation | [Code](https://github.com/LiheYoung/UniMatch)       | [CVPR'2023](https://openaccess.thecvf.com/content/CVPR2023/html/Yang_Revisiting_Weak-to-Strong_Consistency_in_Semi-Supervised_Semantic_Segmentation_CVPR_2023_paper.html) |
+| 2021-06 |                                   | Semi-Supervised Semantic Segmentation with Cross Pseudo Supervision |                                                     |                                                              |
+| 2020-08 | Zhanghan Ke and Rynson W.H. Lau   | Guided Collaborative Training for Pixel-wise Semi-Supervised Learning | [Code](https://github.com/ZHKKKe/PixelSSL)          | [ECCV'2020](https://arxiv.org/abs/2008.05258)                |
+| 2020-01 | Kihyuk Sohn and Colin Raffel      | FixMatch: Simplifying Semi-Supervised Learning with Consistency and Conﬁdence | [Code](https://github.com/google-research/fixmatch) | [NIPS'2020](https://arxiv.org/abs/2001.07685)                |
+| 2018-02 | Wei-Chih Hung and Ming-Hsuan Yang | Adversarial learning for semi-supervised semantic segmentation | [Code](https://github.com/hfslyc/AdvSemiSeg)        | [arXiv'2018](https://arxiv.org/abs/1802.07934)               |
+| 2017-10 | Nasim Souly and Mubarak Shah      | Semi Supervised Semantic Segmentation Using Generative Adversarial Network | N/A                                                 | [ICCV'2017](https://openaccess.thecvf.com/content_iccv_2017/html/Souly__Semi_Supervised_ICCV_2017_paper.html) |
+|         |                                   |                                                              |                                                     |                                                              |
 
 
 
