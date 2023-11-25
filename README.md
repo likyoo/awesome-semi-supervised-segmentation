@@ -8,7 +8,7 @@ A curated list of awesome Semi-Supervised **Segmentation**. A topical extension 
 
 
 
-#### Surveys & Overview
+## Surveys & Overview
 
 A Survey on Semi-Supervised Semantic Segmentation
 
@@ -18,7 +18,7 @@ A Survey on Semi-Supervised Semantic Segmentation
 
 
 
-#### Papers (with code)
+## Papers (with code)
 
 | Date    | The First and Last Authors        | Title                                                        | Code                                                | Reference                                                    |
 | ------- | --------------------------------- | ------------------------------------------------------------ | --------------------------------------------------- | ------------------------------------------------------------ |
@@ -34,13 +34,13 @@ A Survey on Semi-Supervised Semantic Segmentation
 
 
 
-#### Contributing
+## Contributing
 
 If you find any errors, or you wish to add some papers, please feel free to contribute to this list by contacting [me](https://likyoo.github.io/) or by creating a [pull request](https://github.com/likyoo/awesome-semi-supervised-segmentation/pulls) using the above format.
 
 
 
-#### Related Links
+## Related Links
 
 - [awesome-semi-supervised-learning](https://github.com/yassouali/awesome-semi-supervised-learning)
 - [Semi-supervised-learning-for-medical-image-segmentation](https://github.com/HiLab-git/SSL4MIS)
